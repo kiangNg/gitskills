@@ -1,2 +1,3 @@
-hello git
+﻿hello git
 你
+my code is pretty
